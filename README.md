@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakubKK15
-- 👀 I’m interested in anything C++
-- 🌱 I’m currently learning C++ programming
-- 💞️ I’m looking to collaborate on anything related to C++
+- 👀 I’m interested in anything C/C++
+- 🌱 I’m currently learning C/C++ programming
+- 💞️ I’m looking to collaborate on anything related to C/C++
 - 📫 How to reach me : best way is my email jakubkwadrans15@gmail.com
 
 <!---
